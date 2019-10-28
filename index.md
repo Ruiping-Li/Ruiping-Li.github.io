@@ -1,7 +1,7 @@
 ## About
 ---
 
-xxx
+I am a M.S. student in Computer Science at Beijing University of Posts and Telecommunications, mainly working on Information Extraction and Knowledge Reasoning.
 
 ## Education
 
@@ -20,38 +20,31 @@ xxx
 
   B.Eng. in EE (GPA 4.44/5.00 ; Ranking 2/80), Sep. 2014 -- Jun. 2018
 
-## Research Interests
-
----
-
-* "**DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning.** "
-
-  **Ruiping Li** and Xiang Cheng
-
-  **EMNLP2019**, long paper, [[paper\]](https://www.aclweb.org/anthology/TBD-709), [[code\]](https://github.com/Ruiping-Li/DIVINE)
-
-* xx
-
 ## Publications
 
 ---
 
-* xx
-* xx
+* **Ruiping Li** and Xiang Cheng, "**DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning.** "
+
+  **EMNLP2019**, long paper, [[paper\]](https://www.aclweb.org/anthology/TBD-709), [[code\]](https://github.com/Ruiping-Li/DIVINE)
+
+* Sen Su, Ningning Jia, Xiang Cheng, Shuguang Zhu, **Ruiping Li**, "**Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction**"
+
+  **IJCAI2018**, long paper, [[paper\]](https://www.ijcai.org/proceedings/2018/610)
 
 
 ## Awards & Honors
 ------
 
-- xxx
-- xxx
+- 2015, National Scholarship.
+- 2018, Excellent Graduate, Beijing.
 
 ##  Experience
 ------
 
-- xxx
-- xxx
+- Research Intern xxx
+- Program committee/reviewer xxx
 
 
 
-[Link to another page](./another-page.html).
+[中文版](./another-page.html).

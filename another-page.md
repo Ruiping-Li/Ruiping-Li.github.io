@@ -1,9 +1,5 @@
----
-layout: default
----
-
 ## Welcome to another page
 
-_yay_
+中文版
 
-[back](./)
+[English Version](./default.html)
