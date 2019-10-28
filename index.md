@@ -27,6 +27,7 @@ xxx
 * "**DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning.** "
 
   **Ruiping Li** and Xiang Cheng
+
   **EMNLP2019**, long paper, [[paper\]](https://www.aclweb.org/anthology/TBD-709), [[code\]](https://github.com/Ruiping-Li/DIVINE)
 
 * xx
