@@ -21,14 +21,19 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-		<p class="view"><b>Contact</b></p>
-		<p class="view">Email: liruiping@bupt.edu.cn</p>
-		<p class="view">Addr: Beijing University of Posts and Telecommunications, Beijing</p>
+		<p><b>Contact</b></p>
+		<p>Email: liruiping@bupt.edu.cn</p>
+		<p>Addr: Beijing University of Posts and Telecommunications, Beijing</p>
 		
-
+		<p><b>Links</b></p>
+		<p><a href="{{ site.github.repository_url }}">GitHub</a></p>
+		<p><a href="https://www.linkedin.com/in/%E7%91%9E%E5%B9%B3-%E6%9D%8E-7240b3151/">Linkedin</a></p>
+		
+		<!-->
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
+		<-->
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
