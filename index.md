@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## About
 ---
 
@@ -19,7 +15,7 @@ xxx
 
   Student in Logic Experimental Class, Dec. 2015 -- Jun. 2018
 
-* State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications
+* **State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications**
 
   M.S. Student Computer Science
 
