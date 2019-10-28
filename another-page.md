@@ -2,4 +2,4 @@
 
 中文版
 
-[English Version](./default.html)
+[English Version](./)
