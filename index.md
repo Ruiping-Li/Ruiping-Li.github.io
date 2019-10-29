@@ -10,7 +10,7 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 
 * **State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications**
 
-  M.S. Student Computer Science, Sep. 2018 -- Present
+  M.S. Student in Computer Science, Sep. 2018 -- Present
 
 * **Ye Peida Colleage of Innovation and Entrepreneurship, Beijing University of Posts and Telecommunications**
 
@@ -48,4 +48,4 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 
 
 
-#### [[中文版]](./another-page.html)
+#### [[中文版]](./index_cn.html)
