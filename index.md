@@ -1,7 +1,7 @@
 ## About
 ---
 
-I am a M.S. student in Computer Science at Beijing University of Posts and Telecommunications, mainly working on Information Extraction and Knowledge Reasoning.
+I am a M.S. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), mainly working on Information Extraction and Knowledge Reasoning.
 
 ## Education
 
@@ -36,7 +36,11 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 ## Awards & Honors
 ------
 
-- 2015, National Scholarship.
+- 2015, National Scholarship, Ministry of Education.
+- 2015, Excellent Student Cadre, BUPT.
+- 2015, Reginal Physics Competition of China, Second Award.
+- 2016, First Class scholarship, BUPT.
+- 2016, Mathematical Contest in Modeling (MCM), Honorable Mention.
 - 2018, Excellent Graduate, Beijing.
 
 ##  Experience
