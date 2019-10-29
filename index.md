@@ -26,11 +26,11 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 
 * **Ruiping Li** and Xiang Cheng, "**DIVINE: A Generative Adversarial Imitation Learning Framework for Knowledge Graph Reasoning.** "
 
-  **EMNLP2019**, long paper, [[paper\]](https://www.aclweb.org/anthology/TBD-709), [[code\]](https://github.com/Ruiping-Li/DIVINE)
+  **EMNLP2019**, long paper, [[paper]](https://www.aclweb.org/anthology/TBD-709), [[code]](https://github.com/Ruiping-Li/DIVINE)
 
 * Sen Su, Ningning Jia, Xiang Cheng, Shuguang Zhu, **Ruiping Li**, "**Exploring Encoder-Decoder Model for Distant Supervised Relation Extraction**"
 
-  **IJCAI2018**, long paper, [[paper\]](https://www.ijcai.org/proceedings/2018/610)
+  **IJCAI2018**, long paper, [[paper]](https://www.ijcai.org/proceedings/2018/610)
 
 
 ## Awards & Honors
@@ -39,7 +39,7 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 - 2015, National Scholarship, Ministry of Education.
 - 2015, Excellent Student Cadre, BUPT.
 - 2015, Reginal Physics Competition of China, Second Award.
-- 2016, First Class scholarship, BUPT.
+- 2016, First Class Scholarship, BUPT.
 - 2016, Mathematical Contest in Modeling (MCM), Honorable Mention.
 - 2018, Excellent Graduate, Beijing.
 
@@ -53,3 +53,4 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 
 
 #### [[中文版]](./index_cn.html)
+
