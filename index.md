@@ -42,6 +42,7 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 - 2016, First Class Scholarship, BUPT.
 - 2016, Mathematical Contest in Modeling (MCM), Honorable Mention.
 - 2018, Excellent Graduate, Beijing.
+- 2019, Outstanding Graduate Student, BUPT.
 
 ##  Experience
 ------
