@@ -48,8 +48,6 @@ I am a M.S. student in Computer Science at Beijing University of Posts and Telec
 ------
 
 - IJCAI-2019 Alibaba Adversarial AI Challenge (Ranking Top 2%)
-- Research Intern xxx
-- Program committee/reviewer xxx
 
 
 
